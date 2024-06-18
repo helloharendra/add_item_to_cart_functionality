@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/add_item_to_cart_functionality.iml" filepath="$PROJECT_DIR$/add_item_to_cart_functionality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/add_item_to_cart_functionality_android.iml" filepath="$PROJECT_DIR$/android/add_item_to_cart_functionality_android.iml" />
+    </modules>
+  </component>
+</project>
